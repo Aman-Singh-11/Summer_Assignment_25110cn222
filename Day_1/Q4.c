@@ -12,3 +12,5 @@ printf("Number od digits is = %d",flag);
 return 0;
 
 }
+ 
+                 // Updated on June 1

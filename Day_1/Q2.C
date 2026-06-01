@@ -12,3 +12,4 @@ printf("%d\n", n * i);
 }
 return 0;
 }
+            // Updated on June 1
