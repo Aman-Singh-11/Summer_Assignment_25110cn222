@@ -12,3 +12,4 @@ n = n / 10;
 printf("The Sum of the Digits of the number is = %d",b);
 return 0;
 }
+              // UPDATED TODAY
