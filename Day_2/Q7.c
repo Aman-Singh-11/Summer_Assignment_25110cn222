@@ -12,3 +12,4 @@ n=n/10;
 printf("The product of digits = %d", b);
 return 0;
 }
+              UPDATED Q7 PROGRAM
