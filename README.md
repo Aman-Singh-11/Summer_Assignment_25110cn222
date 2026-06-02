@@ -1,4 +1,3 @@
- # 
-Summer Assignment
+# 🌞 Summer Assignment
 
-This repository contains my Summer Assignment programs and solutions in C Programming.
+This repository contains C programming programs and solutions completed as part of my Summer Assignment and coding practice. 
