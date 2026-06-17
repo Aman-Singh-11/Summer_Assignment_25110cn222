@@ -1,4 +1,4 @@
-// WAP TO FIND INTERSECTION OF ARRAYS 
+// WAP TO FIND COMMON ELEMENTS
 #include<stdio.h>
 int main(){
 int a[50],b[50];
